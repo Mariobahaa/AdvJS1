@@ -1,0 +1,4 @@
+[1206/220702.845:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1206/222034.140:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1206/222529.829:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\mario\AppData\Roaming\Brackets\live-dev-profile\Crashpad\attachments\32cc8e5e-08c0-433b-88d8-528535b51a70: The system cannot find the path specified. (0x3)
+[1206/224820.285:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
